@@ -34,4 +34,8 @@ if open_file_input:
     read_files = tkFileDialog.askopenfilenames()
     config.set('misc', value=str(read_files))
 
+<<<<<<< HEAD
 #adding in help branch
+=======
+#appending comment in test branch
+>>>>>>> a74959db1ec98bbbaa12caa7cb9e6b5b47120705
